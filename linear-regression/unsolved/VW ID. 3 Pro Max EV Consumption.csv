@@ -1,0 +1,203 @@
+Trip,Date,Location,Tyres,Temperature (Start) (¡C),Temperature (End) (¡C),Distance (km),Duration (minutes),Average Speed (km/h),Average Consumption (kWh/100km),Charge Level (Start) (%),Charge Level (End) (%), A/C (¡C), Heated Front Seats (Level 0-3), Mode
+1,2021-02-08,Istanbul,Bridgestone 215/45 R20 LM32,14,17.5,31,35,53,14.3,81,73,OFF,0,ECO
+2,2021-02-08,Istanbul,Bridgestone 215/45 R20 LM32,19.5,19,32,52,37,14,73,65,OFF,0,ECO
+3,2021-02-10,Istanbul,Bridgestone 215/45 R20 LM32,15,12.5,31,37,51,17.2,81,72,22,0,COMFORT
+4,2021-02-11,Istanbul,Bridgestone 215/45 R20 LM32,16,14.5,31,31,61,14.5,81,72,OFF,0,COMFORT
+5,2021-02-11,Istanbul,Bridgestone 215/45 R20 LM32,18,18,28,99,18,15.1,72,,OFF,0,ECO
+6,2021-02-12,Istanbul,Bridgestone 215/45 R20 LM32,15.5,3.5,31,37,50,19.6,81,71,22,0,ECO
+7,2021-02-12,Istanbul,Bridgestone 215/45 R20 LM32,3,5.5,31,38,50,18.7,70,59,22,1,ECO
+8,2021-02-15,Istanbul,Bridgestone 215/45 R20 LM32,11.5,1.5,31,34,54,20.9,80,68,22,1,ECO
+9,2021-02-15,Istanbul,Bridgestone 215/45 R20 LM32,2,4,31,30,64,24.4,68,54,22,0,ECO
+10,2021-02-16,Istanbul,Bridgestone 215/45 R20 LM32,10.5,1,31,34,54,18.5,81,71,22,0,ECO
+11,2021-02-16,Istanbul,Bridgestone 215/45 R20 LM32,1.5,1.5,30,42,43,25,71,57,22,0,ECO
+12,2021-02-16,Istanbul,Bridgestone 215/45 R20 LM32,1.5,3,1,6,18,15.8,57,56,22,0,ECO
+13,2021-02-19,Istanbul,Bridgestone 215/45 R20 LM32,9.5,4.5,31,34,54,17.3,78,68,22,0,ECO
+14,2021-02-19,Istanbul,Bridgestone 215/45 R20 LM32,5,6.5,31,31,62,17.9,68,57,OFF,2,ECO
+15,2021-02-23,Istanbul,Bridgestone 215/45 R20 LM32,8.5,5.5,31,34,54,17,81,72,22,0,ECO
+16,2021-02-23,Istanbul,Bridgestone 215/45 R20 LM32,14,13,32,70,28,13.9,72,64,OFF,0,ECO
+17,2021-02-24,Istanbul,Bridgestone 215/45 R20 LM32,9.5,8,31,35,53,17.4,76,66,22,0,ECO
+18,2021-02-24,Istanbul,Bridgestone 215/45 R20 LM32,9,10,40,90,27,18.4,64,,22,0,ECO
+19,2021-02-25,Istanbul,Bridgestone 215/45 R20 LM32,11,7.5,31,37,51,17.6,81,72,22,0,ECO
+20,2021-02-25,Istanbul,Bridgestone 215/45 R20 LM32,12,11,31,52,37,14.9,72,63,OFF,0,ECO
+21,2021-02-26,Istanbul,Bridgestone 215/45 R20 LM32,9,6.5,31,33,56,18.1,81,71,22,0,ECO
+22,2021-02-26,Istanbul,Bridgestone 215/45 R20 LM32,14.5,15.5,31,34,56,13.2,71,63,OFF,0,ECO
+23,2021-03-01,Istanbul,Bridgestone 215/45 R20 LM32,9,5.5,31,43,44,19.1,61,50,22,1,ECO
+24,2021-03-01,Istanbul,Bridgestone 215/45 R20 LM32,9,9.5,31,41,46,15.1,50,40,OFF,0,ECO
+25,2021-03-02,Istanbul,Bridgestone 215/45 R20 LM32,10.5,5.5,31,38,49,15.1,81,73,OFF,1,ECO
+26,2021-03-02,Istanbul,Bridgestone 215/45 R20 LM32,6,7,36,164,14,30.3,73,52,22,1,ECO
+27,2021-03-03,Istanbul,Bridgestone 215/45 R20 LM32,8.5,4.5,31,36,51,17,81,72,22,2,ECO
+28,2021-03-03,Istanbul,Bridgestone 215/45 R20 LM32,9,9.5,38,94,25,19,72,58,22,0,ECO
+29,2021-03-04,Istanbul,Bridgestone 215/45 R20 LM32,8.5,5,31,34,55,14.1,81,74,OFF,0,ECO
+30,2021-03-04,Istanbul,Bridgestone 215/45 R20 LM32,11.5,11,33,80,25,15.1,74,65,OFF,0,ECO
+31,2021-03-05,Istanbul,Bridgestone 215/45 R20 LM32,10.5,,31,35,54,17.6,81,71,22,0,ECO
+32,2021-03-05,Istanbul,Bridgestone 215/45 R20 LM32,16,16.5,32,34,56,13.4,71,63,22,0,ECO
+33,2021-03-08,Istanbul,Bridgestone 215/45 R20 LM32,10.5,4,31,45,43,17.2,81,72,22,0,ECO
+34,2021-03-08,Istanbul,Bridgestone 215/45 R20 LM32,,9,26,45,36,17,70,61,OFF,0,ECO
+35,2021-03-08,Istanbul,Bridgestone 215/45 R20 LM32,9,9,12,37,21,17.2,61,56,22,2,ECO
+36,2021-03-09,Istanbul,Bridgestone 215/45 R20 LM32,10,7.5,31,38,50,16.9,55,45,22,0,ECO
+37,2021-03-09,Istanbul,Bridgestone 215/45 R20 LM32,11,11,29,59,30,15.2,39,31,OFF,0,ECO
+38,2021-03-10,Istanbul,Bridgestone 215/45 R20 LM32,11,8.5,31,37,51,14.4,81,73,OFF,0,ECO
+39,2021-03-10,Istanbul,Bridgestone 215/45 R20 LM32,12,,21,42,30,18.7,73,66,OFF,0,ECO
+40,2021-03-10,Istanbul,Bridgestone 215/45 R20 LM32,15,10,19,49,23,16.7,66,60,OFF,0,ECO
+41,2021-03-11,Istanbul,Bridgestone 215/45 R20 LM32,12,7,31,43,43,15.9,81,72,OFF,1,ECO
+42,2021-03-12,Istanbul,Bridgestone 215/45 R20 LM32,11,5.5,31,32,58,16.9,81,72,22,0,ECO
+43,2021-03-15,Istanbul,Bridgestone 215/45 R20 LM32,12.5,13,31,37,50,13.6,81,74,OFF,0,ECO
+44,2021-03-15,Istanbul,Bridgestone 215/45 R20 LM32,18.5,18,31,49,39,14.6,74,66,OFF,0,ECO
+45,2021-03-16,Istanbul,Bridgestone 215/45 R20 LM32,12.5,12,31,36,51,14.3,81,73,OFF,0,ECO
+46,2021-03-16,Istanbul,Bridgestone 215/45 R20 LM32,11,12.5,32,56,35,14.5,73,66,OFF,0,ECO
+47,2021-03-17,Istanbul,Bridgestone 215/45 R20 LM32,11.5,12.5,31,38,49,18.5,81,71,22,0,ECO
+48,2021-03-17,Istanbul,Bridgestone 215/45 R20 LM32,,9,31,41,46,18.7,,60,22,0,ECO
+49,2021-03-18,Istanbul,Bridgestone 215/45 R20 LM32,11.5,7.5,31,36,52,14.6,81,73,OFF,0,ECO
+50,2021-03-18,Istanbul,Bridgestone 215/45 R20 LM32,10,10.5,31,52,37,14.3,73,65,OFF,0,ECO
+51,2021-03-22,Istanbul,Bridgestone 215/45 R20 LM32,11.5,9,31,37,51,13.6,81,73,OFF,0,ECO
+52,2021-03-22,Istanbul,Bridgestone 215/45 R20 LM32,7,9,32,62,31,21.7,73,60,22,1,ECO
+53,2021-03-23,Istanbul,Bridgestone 215/45 R20 LM32,12,6.5,31,37,51,17.3,81,72,22,0,ECO
+54,2021-03-23,Istanbul,Bridgestone 215/45 R20 LM32,5.5,8,32,46,42,21.7,72,59,22,1,ECO
+55,2021-03-24,Istanbul,Bridgestone 215/45 R20 LM32,12,3,31,33,56,19.6,81,70,22,0,ECO
+56,2021-03-24,Istanbul,Bridgestone 215/45 R20 LM32,5,7,31,36,53,20.4,70,58,22,0,ECO
+57,2021-03-25,Istanbul,Bridgestone 215/45 R20 LM32,11.5,3.5,31,31,59,18,81,72,22,0,ECO
+58,2021-03-25,Istanbul,Bridgestone 215/45 R20 LM32,7.5,9,26,45,34,19.5,71,62,22,0,ECO
+59,2021-03-25,Istanbul,Bridgestone 215/45 R20 LM32,11,7,12,29,25,16,62,,22,0,ECO
+60,2021-03-26,Istanbul,Bridgestone 215/45 R20 LM32,11,6,31,31,59,17.2,81,72,22,0,ECO
+61,2021-03-26,Istanbul,Bridgestone 215/45 R20 LM32,9,10.5,28,54,32,18.5,72,62,22,0,ECO
+62,2021-03-27,Istanbul,Bridgestone 215/45 R20 LM32,11,4.5,18,17,64,22.2,62,55,22,0,COMFORT
+63,2021-03-27,Istanbul,Bridgestone 215/45 R20 LM32,12.5,11.5,17,31,32,16.8,55,48,OFF,0,COMFORT
+64,2021-03-29,Istanbul,Bridgestone 215/45 R20 LM32,12,9.5,31,41,46,14.5,81,72,OFF,1,COMFORT
+65,2021-03-29,Istanbul,Bridgestone 215/45 R20 LM32,13,11,21,40,32,16.5,72,66,OFF,0,ECO
+66,2021-03-29,Istanbul,Bridgestone 215/45 R20 LM32,15,10.5,19,43,27,16.8,66,59,OFF,0,ECO
+67,2021-03-30,Istanbul,Bridgestone 215/45 R20 LM32,12,8.5,46,76,37,18.3,81,66,22,0,ECO
+68,2021-03-30,Istanbul,Bridgestone 215/45 R20 LM32,8.5,9.5,31,39,48,16,66,56,OFF,0,ECO
+69,2021-04-01,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,12,7,9,17,34,16.8,39,36,OFF,0,ECO
+70,2021-04-01,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,11,11.5,7,15,29,11.4,36,34,OFF,0,ECO
+71,2021-04-02,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,11.5,9.5,9,16,36,17.9,81,78,OFF,0,ECO
+72,2021-04-02,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,15.5,15,6,16,25,9.4,77,76,OFF,0,ECO
+73,2021-04-05,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,12.5,7.5,31,40,47,14.7,76,68,OFF,0,ECO
+74,2021-04-05,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,9,10.5,28,64,27,14.2,68,61,OFF,0,ECO
+75,2021-04-06,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,12.5,10.5,31,36,52,13.7,81,73,OFF,0,ECO
+76,2021-04-06,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,20.5,19.5,11,19,37,11,73,71,OFF,0,ECO
+77,2021-04-06,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,20,17.5,25,26,58,13.5,71,65,OFF,0,ECO
+78,2021-04-07,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,13.5,16,31,31,60,13.4,81,74,OFF,0,ECO
+79,2021-04-07,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,21,20.5,31,52,37,12.1,74,67,OFF,0,ECO
+80,2021-04-08,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,13.5,5.5,31,36,52,15.8,81,72,OFF,2,ECO
+81,2021-04-08,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,6,7.5,31,54,36,22.8,72,59,22,1,ECO
+82,2021-04-11,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,12.5,13,2,7,25,13.3,81,81,OFF,0,ECO
+83,2021-04-11,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,16.5,13,3,5,33,15.5,81,80,OFF,0,ECO
+84,2021-04-12,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,12.5,9,17,49,22,13.6,80,75,OFF,0,ECO
+85,2021-04-12,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,11,13,17,39,27,15.5,75,70,OFF,0,ECO
+86,2021-04-13,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,13,7,17,30,35,13.5,70,66,OFF,0,ECO
+87,2021-04-13,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,11.5,18.5,17,37,29,16.1,66,60,OFF,0,ECO
+88,2021-04-14,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,13.5,11,17,21,49,15.1,61,55,OFF,1,ECO
+89,2021-04-14,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,13,19.5,18,63,17,16.1,56,49,OFF,0,ECO
+90,2021-04-15,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,13.5,9.5,17,19,57,14.5,81,77,OFF,0,ECO
+91,2021-04-15,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,13,15,11,16,43,21.7,77,72,OFF,0,COMFORT
+92,2021-04-15,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18,12,15,67,14,13.2,72,68,OFF,0,ECO
+93,2021-04-16,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,17,9.5,17,20,53,15.9,69,63,22,1,ECO
+94,2021-04-16,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,13,13.5,18,58,19,17.1,63,57,OFF,0,ECO
+95,2021-04-17,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,14,12,8,13,39,22,58,54,OFF,0,ECO
+96,2021-04-17,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,13,13,8,16,32,12.5,54,50,OFF,0,ECO
+97,2021-04-19,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,14,10.5,17,29,36,14.2,51,46,OFF,1,ECO
+98,2021-04-19,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,13,14,18,150,7,21.4,46,39,OFF,1,ECO
+99,2021-04-20,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,14,11.5,17,19,55,13.1,81,77,OFF,1,ECO
+100,2021-04-20,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,16.5,17,18,53,21,16.4,77,71,OFF,1,ECO
+101,2021-04-21,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,14.5,8,17,19,55,13.7,72,67,OFF,2,ECO
+102,2021-04-21,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,14,18.5,10,35,18,22.5,63,67,OFF,0,ECO
+103,2021-04-21,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,16,16,13,26,30,9.3,63,60,OFF,0,ECO
+104,2021-04-22,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,14,9,17,19,56,13.6,60,55,OFF,1,ECO
+105,2021-04-22,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,15,19.5,23,101,14,16.8,56,47,OFF,0,ECO
+106,2021-04-26,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,14.5,10.5,17,23,46,13.5,48,43,OFF,0,ECO
+107,2021-04-26,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,14.5,18,18,48,23,15.3,44,38,OFF,0,ECO
+108,2021-04-28,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,15.5,18.5,7,48,9,18.4,38,36,OFF,1,ECO
+109,2021-04-29,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,15,20,6,23,17,15,81,79,OFF,0,ECO
+110,2021-05-17,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,17,16.5,17,28,37,13.5,80,76,OFF,0,ECO
+111,2021-05-17,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,23.5,24,16,42,24,15.4,73,68,OFF,0,ECO
+112,2021-05-18,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18,20,17,29,36,12.7,68,65,OFF,1,ECO
+113,2021-05-18,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,16.5,19,18,61,18,15,64,59,OFF,0,ECO
+114,2021-05-20,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18,16.5,17,21,50,12.7,59,54,OFF,0,ECO
+115,2021-05-21,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,17.5,16.5,18,39,29,15.1,45,39,OFF,0,ECO
+116,2021-05-24,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18,16,17,41,26,13,69,65,OFF,1,ECO
+117,2021-05-24,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,,26,18,50,22,16.3,,60,22,0,ECO
+118,2021-05-25,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,17.5,17,25,43,12.3,60,55,OFF,1,ECO
+119,2021-05-25,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18,21.5,18,67,17,17.6,55,48,OFF,0,ECO
+120,2021-05-26,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,17,17,22,49,12.5,48,44,OFF,0,ECO
+121,2021-05-26,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,21.5,18,52,21,15.9,45,39,OFF,0,ECO
+122,2021-05-26,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,,23.5,8,55,9,15.7,39,37,OFF,0,ECO
+123,2021-05-27,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19,18,17,22,48,13,81,76,OFF,1,ECO
+124,2021-05-27,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,20.5,29,64,28,12.6,77,70,OFF,0,ECO
+125,2021-05-28,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19,18,17,24,43,12.3,70,66,OFF,0,ECO
+126,2021-05-28,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,22.5,18,54,21,15.6,66,60,OFF,0,ECO
+127,2021-05-31,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,18,17,28,37,12.2,61,56,OFF,0,ECO
+128,2021-05-31,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,19.5,18,34,33,13.5,56,51,OFF,0,ECO
+129,2021-06-01,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19,14.5,17,34,31,13.7,51,46,OFF,2,ECO
+130,2021-06-01,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18,20,18,63,18,15.3,46,41,OFF,0,ECO
+131,2021-06-02,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,14.5,17,25,43,12.4,81,77,OFF,0,ECO
+132,2021-06-02,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19,16.5,28,36,47,15.6,78,70,OFF,0,ECO
+133,2021-06-02,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,17.5,18,24,42,35,11.9,70,64,OFF,0,ECO
+134,2021-06-02,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19.5,17.5,18,39,28,14.9,64,59,OFF,0,ECO
+135,2021-06-03,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,14,17,22,47,14.4,59,54,OFF,0,ECO
+136,2021-06-03,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,17.5,18,18,49,23,14.8,54,47,OFF,0,ECO
+137,2021-06-04,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,14.5,17,21,51,11.6,48,45,OFF,0,ECO
+138,2021-06-04,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,21,22,9,49,11,15.8,40,37,OFF,0,ECO
+139,2021-06-07,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,18.5,17,47,23,12.5,81,76,OFF,0,ECO
+140,2021-06-07,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19,21,18,20,54,15.1,76,71,OFF,0,ECO
+141,2021-06-08,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,18.5,19.5,17,27,39,12.6,71,67,OFF,0,ECO
+142,2021-06-08,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19.5,24,23,65,22,14.6,67,61,OFF,0,ECO
+143,2021-06-09,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19,16.5,17,24,44,12.4,61,56,OFF,0,ECO
+144,2021-06-09,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,17,21,18,39,28,15.1,55,50,OFF,0,ECO
+145,2021-06-10,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19.5,18,17,23,45,11,50,46,OFF,0,ECO
+146,2021-06-10,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,20,26.5,18,48,23,13.9,46,42,OFF,0,ECO
+147,2021-06-11,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19.5,19,17,24,44,11.6,42,37,OFF,0,ECO
+148,2021-06-12,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,21.5,23,11,14,51,10.4,35,32,OFF,0,ECO
+149,2021-06-14,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19,18,17,42,25,12.7,81,76,OFF,0,ECO
+150,2021-06-14,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,20,20,18,38,29,13.5,76,71,OFF,0,ECO
+151,2021-06-15,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19.5,15,17,39,28,13.3,72,67,OFF,0,ECO
+152,2021-06-16,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19.5,16.5,17,28,39,12.7,55,49,OFF,2,ECO
+153,2021-06-16,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19.5,20,18,49,23,15.2,50,45,OFF,0,ECO
+154,2021-06-17,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19.5,16,17,25,42,12.2,45,40,OFF,0,ECO
+155,2021-06-17,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,20,24.5,18,42,26,13.5,41,36,OFF,0,ECO
+156,2021-06-18,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19.5,19,17,23,46,11.9,37,32,OFF,0,ECO
+157,2021-06-18,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,20.5,19,18,45,25,15.6,33,27,OFF,0,ECO
+158,2021-06-21,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19.5,19.5,17,33,32,12.9,80,76,OFF,0,ECO
+159,2021-06-22,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,19.5,18,17,23,46,12,72,67,OFF,0,ECO
+160,2021-07-05,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,22.5,23.5,17,43,25,11.9,81,76,OFF,0,ECO
+161,2021-07-05,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,23.5,29,18,46,24,17.3,77,71,22,0,ECO
+162,2021-07-06,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,22,20.5,17,34,31,12.9,71,66,OFF,0,ECO
+163,2021-07-07,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,22,22.5,17,28,38,11.9,62,58,OFF,0,ECO
+164,2021-07-07,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24,24.5,23,73,20,17.5,58,50,22,0,ECO
+165,2021-07-08,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,22.5,23,17,25,43,12.6,67,62,OFF,0,ECO
+166,2021-07-08,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24.5,26.5,18,37,30,14.5,63,57,OFF,0,ECO
+167,2021-07-09,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,22.5,24,17,25,42,12.3,53,48,OFF,0,ECO
+168,2021-07-09,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24.5,29,18,32,35,16.4,49,44,22,0,ECO
+169,2021-07-12,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,22.5,23.5,10,17,38,13.5,72,69,22,0,ECO
+170,2021-07-12,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24.5,24,17,45,24,14.7,69,64,22,0,ECO
+171,2021-07-12,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,25,28.5,18,36,31,16.5,65,59,22,0,ECO
+172,2021-07-26,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,23,23.5,17,26,40,13.6,81,77,OFF,0,ECO
+173,2021-07-26,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,26,28,46,84,33,15.5,77,63,21,0,ECO
+174,2021-07-27,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,,22,17,22,49,11.5,,60,OFF,0,ECO
+175,2021-07-27,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,26,28.5,21,45,29,17.4,60,52,21,0,ECO
+176,2021-07-28,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,23.5,23.5,17,22,48,11.6,52,47,OFF,0,ECO
+177,2021-07-28,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,26,29.5,18,32,35,16.9,47,43,22,0,ECO
+178,2021-07-29,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,23.5,24,17,23,46,11.5,43,38,OFF,0,ECO
+179,2021-07-29,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,26,31.5,18,32,34,15.7,38,33,22,0,ECO
+180,2021-07-30,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,23.5,22.5,17,31,34,12.4,34,29,OFF,0,ECO
+181,2021-07-30,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,,32.5,18,33,33,17.8,,21,21,0,ECO
+182,2021-07-30,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,32.5,35.5,7,19,22,17.4,27,26,21,0,ECO
+183,2021-08-02,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,23.5,22.5,17,36,30,12,81,77,OFF,0,ECO
+184,2021-08-02,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,26.5,32,18,36,31,14.6,77,72,21,0,ECO
+185,2021-08-03,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24.5,24,17,23,46,10.8,67,63,OFF,0,ECO
+186,2021-08-03,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,27,29.5,18,35,32,15,63,58,21,0,ECO
+187,2021-08-04,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24.5,24.5,17,23,47,10.6,58,53,OFF,0,ECO
+188,2021-08-04,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,27,31,30,47,39,14.2,47,40,21,0,ECO
+189,2021-08-05,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24.5,25.5,17,29,37,12,41,36,22,0,ECO
+190,2021-08-05,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,27,33.5,23,27,52,14.7,37,30,22,0,ECO
+191,2021-08-06,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,25,23.5,17,25,42,11.9,23,18,OFF,0,ECO
+192,2021-08-24,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24.5,23.5,17,29,37,12.8,41,35,OFF,0,ECO
+193,2021-08-24,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,26,27.5,18,52,21,17.8,35,30,22,0,ECO
+194,2021-08-25,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,25.5,24,21,32,40,12.8,80,75,22,0,ECO
+195,2021-08-27,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24.5,23,17,33,32,11.7,80,78,OFF,0,ECO
+196,2021-09-07,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24.5,21.5,21,46,28,11.4,78,73,OFF,0,ECO
+197,2021-09-08,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24.5,24,18,76,15,15.6,49,43,OFF,0,ECO
+198,2021-09-10,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,23.5,19,17,50,21,12.7,35,30,OFF,0,ECO
+199,2021-09-13,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,23.5,17.5,17,41,26,12.3,80,75,OFF,0,ECO
+200,2021-09-13,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,24,25,23,61,23,14.8,75,69,23,0,ECO
+201,2021-10-04,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,21,20,18,42,26,12.6,45,41,OFF,0,COMFORT
+202,2021-10-07,Istanbul,Goodyear EfficientGrip Performance 215/45 R20,20.5,14.5,17,28,37,12,68,63,OFF,0,COMFORT

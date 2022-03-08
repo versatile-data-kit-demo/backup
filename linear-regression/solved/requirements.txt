@@ -1,0 +1,16 @@
+numpy
+quickstart-vdk
+
+# necessary for sql in jupyter
+ipython-sql
+jupyterlab_sql
+
+streamlit
+jupyter-server-proxy
+nbserverproxy
+
+pyarrow==7.0.0
+seaborn
+matplotlib
+sklearn
+xlsxwriter
