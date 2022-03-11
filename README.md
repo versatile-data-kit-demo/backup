@@ -1,6 +1,8 @@
 # Close the Gap between Proof-of-Concept & Data Science Product Workshop
 **Start:** 10:00 - 16:00
+
 **Date:** 26th March 2022
+
 **Level:** Beginner
 ## Table of Contents:
 - [Pre-requisites](#Pre-requisites)
