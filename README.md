@@ -9,13 +9,13 @@
 - [Agenda](#Agenda)
 - [EV Range Prediction](#EV-Range-Prediction)
     - [Launch Workshop](#Launch-Workshop-1)
-- [Covid vs. No Scent Complaints](#Covid-vs.-No-Scent-Complaints)
+- [Covid vs. No Scent Complaints](#Covid vs. No Scent Complaints)
     - [Launch Workshop](#Launch-Workshop-2)
 - [Investigating Covid Cases](#Investigating-Covid-Cases)
     - [Launch Workshop](#Launch-Workshop-3)
 - [Feedback](#Feedback)
 - [Where to Find Us](#Where-to-Find-Us)
-- [Workshop Solution](#Workshop-Solutions)
+- [Workshop Solutions](#Workshop-Solutions)
 ## Pre-requisites:
 - Bring your own laptop
 - Make sure you connect to the Wi-Fi
