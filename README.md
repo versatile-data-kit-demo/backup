@@ -9,7 +9,7 @@
 - [Agenda](#Agenda)
 - [EV Range Prediction](#EV-Range-Prediction)
     - [Launch Workshop](#Launch-Workshop-1)
-- [Covid vs. No Scent Complaints](#Covid-vs.-No Scent Complaints)
+- [Covid vs. No Scent Complaints](#Covid-vs.-No-Scent-Complaints)
     - [Launch Workshop](#Launch-Workshop-2)
 - [Investigating Covid Cases](#Investigating-Covid-Cases)
     - [Launch Workshop](#Launch-Workshop-3)
