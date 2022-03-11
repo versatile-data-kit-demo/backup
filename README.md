@@ -30,13 +30,11 @@
 ## EV Range Prediction
 We will use a simple linear regression model to calculate the range that we can drive under various meteorological conditions and speed.
 We will create a data driven application powered by a data science project. We will demonstrate how we can sustainably move our POC data science projects into production-ready products.
-### Launch Workshop 1
-https://github.com/versatile-data-kit-amld/linear-regression-example-unsolved
+### Launch Workshop 1(https://github.com/versatile-data-kit-amld/linear-regression-example-unsolved)
 ## Covid vs. No Scent Complaints
 Ispired by a Twitter post, we will investigate whether there is a connection between Covid cases in the US and complaints raised for one Amazon product.
 We will go through the whole data science workflow from obtaining the data, cleaning it, doing a correlation analysis, and building a data-driven application that is being updated regularly. And this would be achieved with minimal additional effort than running the analysis in POC.
-### Launch Workshop 2
-https://github.com/versatile-data-kit-amld/correlation-example-unsolved
+### Launch Workshop 2(https://github.com/versatile-data-kit-amld/correlation-example-unsolved)
 ## Investigating Covid Cases
 We are going to build a data application that would track Covid cases and deaths in a randomly selected set of European countries. We will show how to obtain data from multiple sources, ingest such sets of data, clean them, and combine them to create one data driven product, which is being updated regularly.
 ### Launch Workshop 3
@@ -51,6 +49,6 @@ Give as a star if you've liked the [project](https://github.com/vmware/versatile
     - [An Overview of Versatile Data Kit](https://towardsdatascience.com/an-overview-of-versatile-data-kit-a812cfb26de7)
     - [From Raw Data to a Cleaned Database: A Deep Dive into Versatile Data Kit](https://towardsdatascience.com/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e)
 ## Workshop Solutions
-- EV Range Prediction (Solved) - https://github.com/versatile-data-kit-amld/correlation-example-solved
-- Covid vs. No Scent Complaints (Solved) - https://github.com/versatile-data-kit-amld/correlation-example-solved
+- EV Range Prediction (Solved)(https://github.com/versatile-data-kit-amld/linear-regression-example-solved)
+- Covid vs. No Scent Complaints (Solved)(https://github.com/versatile-data-kit-amld/correlation-example-solved)
 - Investigating Covid Cases - 
