@@ -30,7 +30,7 @@
 ## EV Range Prediction
 We will use a simple linear regression model to calculate the range that we can drive under various meteorological conditions and speed.
 We will create a data driven application powered by a data science project. We will demonstrate how we can sustainably move our POC data science projects into production-ready products.
-### [Launch Workshop] 1(https://github.com/versatile-data-kit-amld/linear-regression-example-unsolved)
+### [Launch Workshop 1](https://github.com/versatile-data-kit-amld/linear-regression-example-unsolved)
 ## Covid vs. No Scent Complaints
 Ispired by a Twitter post, we will investigate whether there is a connection between Covid cases in the US and complaints raised for one Amazon product.
 We will go through the whole data science workflow from obtaining the data, cleaning it, doing a correlation analysis, and building a data-driven application that is being updated regularly. And this would be achieved with minimal additional effort than running the analysis in POC.
