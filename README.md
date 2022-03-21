@@ -40,7 +40,7 @@ We are going to build a data application that would track Covid cases and deaths
 ### Launch Workshop 3
 !!!Comming Soon!!!
 ## Feedback
-We'd appreciate filling out **[this feedback form here about the workshop](https://forms.office.com/r/B7frPc39Qw)**
+Please share your feedback : https://bit.ly/vdk-amld
 
 Give as a star if you've liked the [project](https://github.com/vmware/versatile-data-kit).
 ## Where to Find Us
