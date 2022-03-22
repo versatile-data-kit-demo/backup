@@ -54,4 +54,4 @@ Give as a star if you've liked the [project](https://github.com/vmware/versatile
 ## Workshop Solutions
 - [EV Range Prediction (Solved)](https://github.com/versatile-data-kit-amld/linear-regression-example-solved)
 - [Covid vs. No Scent Complaints (Solved)](https://github.com/versatile-data-kit-amld/correlation-example-solved)
-- Investigating Covid Cases - 
+- [Investigating Covid Cases (Solved)](https://github.com/versatile-data-kit-amld/tracking-covid-cases-deaths-example-solved)
