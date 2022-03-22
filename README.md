@@ -14,7 +14,6 @@
     - [Launch Workshop](#Launch-Workshop-2)
 - [Covid vs No Scent Complaints](#Covid-vs-No-Scent-Complaints)
     - [Launch Workshop](#Launch-Workshop-3)
-
 - [Feedback](#Feedback)
 - [Where to Find Us](#Where-to-Find-Us)
 - [Workshop Solutions](#Workshop-Solutions)
@@ -63,5 +62,6 @@ Give as a star if you've liked the [project](https://github.com/vmware/versatile
     - [From Raw Data to a Cleaned Database: A Deep Dive into Versatile Data Kit](https://towardsdatascience.com/from-raw-data-to-a-cleaned-database-a-deep-dive-into-versatile-data-kit-ab5fd992a02e)
 ## Workshop Solutions
 - [EV Range Prediction (Solved)](https://github.com/versatile-data-kit-amld/linear-regression-example-solved)
+- [Tracking Covid (Solved)](https://github.com/versatile-data-kit-amld/tracking-covid-cases-deaths-example-solved)
 - [Covid vs. No Scent Complaints (Solved)](https://github.com/versatile-data-kit-amld/correlation-example-solved)
-- [Investigating Covid Cases (Solved)](https://github.com/versatile-data-kit-amld/tracking-covid-cases-deaths-example-solved)
+
