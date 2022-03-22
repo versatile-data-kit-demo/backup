@@ -20,6 +20,13 @@
 - Bring your own laptop
 - Make sure you connect to the Wi-Fi
 - Check that you can open the MyBinder tied to Workshop 1
+
+## Goals
+- Why data science models fail to be moved to production​
+- (Primary) Empower Data Scientists to create production-ready models & analysis​
+- (Secondary) Increase the ability of data practitioners to be more effective in their day-to-day development and operations​
+- Provide tools to take responsibility of end-to-end process from data extraction to deploying scheduled predictive model in self-service manner​
+
 ## Agenda
 - 10:00 – 10:45 – Introduction
 - 11:00 – 11:45 – EV Range Prediction
