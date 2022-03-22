@@ -37,12 +37,13 @@ We will go through the whole data science workflow from obtaining the data, clea
 ### [Launch Workshop 2](https://github.com/versatile-data-kit-amld/correlation-example-unsolved)
 ## Investigating Covid Cases
 We are going to build a data application that would track Covid cases and deaths in a randomly selected set of European countries. We will show how to obtain data from multiple sources, ingest such sets of data, clean them, and combine them to create one data driven product, which is being updated regularly.
-### Launch Workshop 3
-!!!Comming Soon!!!
+### [Launch Workshop 3](https://github.com/versatile-data-kit-amld/tracking-covid-cases-deaths-example-unsolved)
+
 ## Feedback
 Please share your feedback : https://bit.ly/vdk-amld
 
 Give as a star if you've liked the [project](https://github.com/vmware/versatile-data-kit).
+
 ## Where to Find Us
 - [YouTube](https://www.youtube.com/channel/UCasf2Q7X8nF7S4VEmcTHJ0Q/about)
 - [Twitter](https://twitter.com/vdkproject)
