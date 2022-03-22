@@ -6,6 +6,7 @@
 **Level:** Beginner
 ## Table of Contents:
 - [Pre-requisites](#Pre-requisites)
+- [Goals](#Goals)
 - [Agenda](#Agenda)
 - [EV Range Prediction](#EV-Range-Prediction)
     - [Launch Workshop](#Launch-Workshop-1)
@@ -16,6 +17,7 @@
 - [Feedback](#Feedback)
 - [Where to Find Us](#Where-to-Find-Us)
 - [Workshop Solutions](#Workshop-Solutions)
+
 ## Pre-requisites:
 - Bring your own laptop
 - Make sure you connect to the Wi-Fi
