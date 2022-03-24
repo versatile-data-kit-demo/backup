@@ -9,6 +9,8 @@ Open a terminal
 ```
 python -V
 ```
+It's very much recommended to use new virutal environment. Conda is great way to manage those: 
+https://conda.io/projects/conda/en/latest/user-guide/install/index.html
 
 1. Clone repo
 ```
