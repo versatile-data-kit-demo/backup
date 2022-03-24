@@ -1,5 +1,6 @@
 
-If there's an issue with mybinder the whole Workshop can be executed locally on linux or mac
+If there's an issue with mybinder the whole Workshop can be executed locally on linux or mac. 
+For each workshop excersice: 
 
 
 Open a terminal
@@ -22,7 +23,7 @@ cd linear-regression-example-unsolved
 pip install jupyterlab
 ```
 
-3. Install VDK 
+3. Install VDK  and dependencies (make sure you are in the clone repo directory): 
 
 ```
 pip install -r requirements.txt
