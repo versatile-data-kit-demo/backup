@@ -17,6 +17,7 @@
 - [Feedback](#Feedback)
 - [Where to Find Us](#Where-to-Find-Us)
 - [Workshop Solutions](#Workshop-Solutions)
+- [Run workshop on local machine](#run-workshop-on-local-machine)
 
 ## Pre-requisites:
 - Bring your own laptop
