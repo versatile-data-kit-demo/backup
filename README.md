@@ -65,3 +65,7 @@ Give as a star if you've liked the [project](https://github.com/vmware/versatile
 - [Tracking Covid (Solved)](https://github.com/versatile-data-kit-amld/tracking-covid-cases-deaths-example-solved)
 - [Covid vs. No Scent Complaints (Solved)](https://github.com/versatile-data-kit-amld/correlation-example-solved)
 
+
+## Run workshop on local machine
+
+The workshops run in mybinder.org environment by default. But if you want to run it locally follow [instructions here](https://github.com/versatile-data-kit-amld/workshop/blob/main/backup/local_instructions.md)
